@@ -1,7 +1,7 @@
 .container-test {
     width: 65em;
     height: 23em;
-    margin: 10px 10px 50px;
+    margin: .6em .6em 3.1em;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -12,6 +12,14 @@
 .img-test {
     height: 100%;
     width: auto;
+}
+
+.container-txt-test {
+    text-align: center;
+    padding: 1.6em;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
 }
 
 .name-test {
@@ -25,9 +33,6 @@
 }
 
 .txt-test {
-    text-align: center;
-    padding: 1.6em;
-    font-family: Lato, sans-serif;
-    font-weight: 400;
-    line-height: 1.5rem;
+    font-size: 1.1rem;
+    text-align: justify;
 }

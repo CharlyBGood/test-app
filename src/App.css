@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-  max-width: 940px;
+  max-width: 60em;
   font-size: 2.5em;
   font-family: Lato, sans-serif;
   font-weight: 700;
@@ -30,8 +30,9 @@ h1 {
 }
 
 .main-container {
+  width: 95%;
   display: flex;
-  min-height: 600px;
+  min-height: 37.5em;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
