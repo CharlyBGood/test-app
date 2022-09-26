@@ -7,12 +7,12 @@ function App() {
       <div className="main-container">
         <h1>This is a testimony section mockup:</h1>
         <Testimony
-          name="Shawn Wang"
-          country="Singapore"
-          img="shawn"
-          job="Software Engineer"
-          company="Amazon"
-          testimony="It's scary to change careers. I only gained confidence that I could code by working through the hundreds of hours of free lessons on freeCodeCamp. Within a year I had a six-figure job as a Software Engineer. freeCodeCamp changed my life."
+          name="He-Man"
+          country="Eternia"
+          img="heman"
+          job="Fighter and Fitness Coach"
+          company="Grayskull"
+          testimony="I'm one of the Masters Of The Universe, and I will protect the planet from Skeletor!! Also I like to dance and eat eggs for breakfast."
         />
         <Testimony
           name="Emma Bostian"
