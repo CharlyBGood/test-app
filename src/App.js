@@ -15,21 +15,14 @@ function App() {
           testimony="I'm one of the Masters Of The Universe, and I will protect the planet from Skeletor!! Also I like to dance and eat eggs for breakfast."
         />
         <Testimony
-          name="Emma Bostian"
-          country="Sweden"
-          img="emma"
-          job="Software Engineer"
-          company="Spotify"
-          testimony="I've always struggled with learning JavaScript. I've taken many courses but freeCodeCamp's course was the one which stuck. Studying JavaScript as well as data structures and algorithms on freeCodeCamp gave me the skills and confidence I needed to land my dream job as a software engineer at Spotify."
+          name="Daria"
+          country="California"
+          img="daria"
+          job="Uninterested"
+          company="Wherever"
+          testimony="I've never been curious, and I'm just here to mockup an opinion about this site. Just because Charly want to show that he can make sections on React."
         />
-        <Testimony
-          name="Sarah Chima"
-          country="Nigeria"
-          img="sarah"
-          job="Software Engineer"
-          company="ChatDesk"
-          testimony="freeCodeCamp was the gateway to my career as a software developer. The well-structured curriculum took my coding knowledge from a total beginner level to a very confident level. It was everything I needed to land my first dev job at an amazing company."
-        />
+        
       </div>
     </div>
   );

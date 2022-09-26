@@ -1,7 +1,7 @@
 .container-test {
-  width: 90%;
+  width: 85%;
   height: auto;
-  margin: 0.6em 0.6em 3.1em;
+  margin: 0.6em 0.6em 1.1em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -12,7 +12,7 @@
 
 .img-test {
   height: 100%;
-  width: 27vw;
+  width: 24vw;
 }
 
 .container-txt-test {
