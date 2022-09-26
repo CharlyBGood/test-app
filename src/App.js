@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="main-container">
-        <h1>Here is what our alumni say about freeCodeCamp:</h1>
+        <h1>This is a testimony section mockup:</h1>
         <Testimonio
           name="Shawn Wang"
           country="Singapore"
