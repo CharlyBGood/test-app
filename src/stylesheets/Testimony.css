@@ -1,0 +1,73 @@
+.container-test {
+  width: 90%;
+  height: auto;
+  margin: 0.6em 0.6em 3.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #212121;
+  box-shadow: 0 3px 13px 1px rgba(226, 217, 217, 0.582);
+  border-radius: .5em;
+}
+
+.img-test {
+  height: 100%;
+  width: auto;
+}
+
+.container-txt-test {
+  text-align: center;
+  padding: 1.6em;
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+.name-test {
+  font-size: 1.3rem;
+}
+
+.job-test {  
+  margin-top: 0.9em;
+  padding-bottom: 1.5em;
+}
+
+.txt-test {
+  font-size: 1.1rem;
+  text-align: justify;
+}
+
+@media screen and (max-width: 750px) {
+    h1 {
+        font-size: 1.2em;
+        margin: 1.3em;        
+    }
+
+  .container-test {
+    width: 85%;
+    height: auto;
+    flex-direction: column;
+  }
+
+  .img-test {
+    width: 75%;
+    margin: 0.5em auto;
+    border-radius: .3em;
+  }
+
+  .name-test {
+    font-size: 1.1em;
+  }
+
+  .job-test {
+    font-size: .9em;
+  }
+
+  .txt-test {
+    font-size: 1em;
+  }
+
+  .container-txt-test {
+    padding: 1.1em;
+  }
+}

@@ -1,5 +1,5 @@
 import React from "react";
-import "../stylesheets/Testimonio.css";
+import "../stylesheets/Testimony.css";
 
 function Testimonio(props) {
   return (
@@ -7,7 +7,7 @@ function Testimonio(props) {
       <img
         className="img-test"
         src={require(`../img/test-${props.img}.png`)}
-        alt= {props.name} 
+        alt={props.name}
       />
       <div className="container-txt-test">
         <p className="name-test">
