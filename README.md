@@ -1,1 +1,1 @@
-## TEST REACT PAGE "TESTIMONY SECTION MOCKUP" FOR LEARNING PORPOSES ON REACT!
+## Testimony Section Mockup for learning and practice purposes made with React.
