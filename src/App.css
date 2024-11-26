@@ -21,17 +21,17 @@ h1 {
 }
 
 .App {
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  text-align: center;
-  height: 100vh;
+  text-align: center;  
 }
 
 .main-container {
   width: 95%;
+  height: 90vh;
   display: flex;
   min-height: 37.5em;
   flex-wrap: wrap;
